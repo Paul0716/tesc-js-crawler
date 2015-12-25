@@ -1,0 +1,6 @@
+node_modules/*
+data/*
+.DS_Store
+my.csv
+out.csv
+in.csv
